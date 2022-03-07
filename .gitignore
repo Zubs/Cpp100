@@ -1,0 +1,7 @@
+# IDE files
+.idea
+.vscode
+
+# Build files
+build
+*.out
